@@ -22,7 +22,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot token va admin ID
-TOKEN = "7900445383:AAEO2q-6F6p8SiODpQiUt3lN2ELMOi0xxC4"
+TOKEN = "7900445383:AAEiFxt1TsMDBH9bxzvcj8x-Zm252p1C-7E"
 ADMIN_ID = 7820484883
 
 # Savollar va fanlar (namuna uchun)
